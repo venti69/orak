@@ -39,7 +39,7 @@
 // 	loadMoreBtn.addEventListener('click', loadWatches);
 // });
 function fel() {
-	document.body.scrollTop = 0; i
+	document.body.scrollTop = 0; 
 	document.documentElement.scrollTop = 0; 
   } 
 
